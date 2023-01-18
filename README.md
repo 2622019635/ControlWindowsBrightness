@@ -1,5 +1,9 @@
 # ControlWindowsBrightness
 
+![image](https://user-images.githubusercontent.com/61149488/213118440-ce97999c-4b56-4fb9-87da-cef932f97cb3.png)
+
+<br>
+
 I can't find where the brightness adjustment of windows is, so I did this to control the brightness
 
 
