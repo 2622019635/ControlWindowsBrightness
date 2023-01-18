@@ -1,0 +1,1 @@
+ pyinstaller.exe .\main.py .\listen_key.py .\tray_functions.py .\create_window_ctl_bright.py --collect-data sv_ttk --add-data='static\*;static\' --add-data='language.json;.' -i '.\static\icon.png' -n "ControlWindowsBrightness" -w
